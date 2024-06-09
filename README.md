@@ -2,7 +2,8 @@
 
 ### dataframe_raw.csv
 Already processed dataframe containing data about players performance in certain seasons and their market value.
-Data refers to players of 12 chosen Premier League clubs for seasons 2018/19-2023/24
+File contains data about players of 12 chosen Premier League clubs for seasons 2018/19-2023/24.
+Data comes from the websites: transfermarkt.com, fbref.com
 
 ### df_final.csv
 Dataframe used to estimating ML models after final clearing (data_clearing.ipynb)
